@@ -18,3 +18,5 @@ Based on the generated topics, the following insights were derived:
 - The topics reveal a focus on major personalities and figures, such as politicians, sports stars, and public figures.
 - Health-related issues and studies are also a prevalent theme in the topics, showcasing the importance of health news and its impact on the general public.
 - A variety of human interest stories and lighter topics are covered, such as architecture, fashion, and animal stories, providing a diverse mix of content for readers.
+
+![CNN Topics](Topics.png)
